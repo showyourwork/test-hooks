@@ -18,4 +18,8 @@
 </a>
 </p>
 
-An open source scientific article created using the [showyourwork](https://github.com/showyourwork/showyourwork) workflow.
+*This is an automatically generated test for [showyourwork](https://github.com/showyourwork/showyourwork) generated from the file [test_hooks.py](https://github.com/showyourwork/showyourwork/blob/main/tests/integration/test_hooks.py).*
+
+
+Test the showyourwork patches to snakemake's onstart and onsuccess hooks.
+
